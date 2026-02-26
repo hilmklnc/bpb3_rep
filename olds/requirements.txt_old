@@ -1,0 +1,16 @@
+bedtools
+setuptools
+itertools
+pandas
+numpy
+argparse
+os
+shutil
+multiprocessing
+matplotlib
+seaborn
+datetime
+scipy
+tempfile
+time
+numba
