@@ -106,7 +106,7 @@ Run bpb3 in slurm:  add three new lines "--use_slurm" , "--slurm_account" , and 
 
 ## BPB3 Demos and User Guide
 
-[More information about demos in bpb3 package please refer to ->  https://bpb3.github.io/bpb3 ](https://bpb3.github.io/bpb3-web/)
+[More information about demos in bpb3 package please refer to ->  https://bpb3.github.io/bpb3-web ](https://bpb3.github.io/bpb3-web/)
 
 [bpb3 package can be downloaded from -> https://github.com/junbaiw/bpb3 ](https://github.com/junbaiw/bpb3)
 
