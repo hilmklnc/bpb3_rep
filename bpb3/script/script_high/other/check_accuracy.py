@@ -120,12 +120,17 @@ def get_tfs_and_change(fi):
 
 def best_rank_in_result(stf_snps,tfNameMap,record_snp2rankings,out_df):
   #out_df=pd.DataFrame(columns=['mutation','bestRank','bestScore'])
+  out_df_list=[]
   for fi in stf_snps:
     #print(fi)
     tfs, change= get_tfs_and_change(fi)
 
     new_row=find_best_rank(record_snp2rankings[fi],fi,'file_name',tfs, change,tfNameMap,out_df.columns)
-    out_df=out_df.append(new_row,ignore_index=True)
+    #jbw 2026
+    #out_df=out_df.append(new_row,ignore_index=True)
+    out_df_list.append(new_row.copy())
+  #jbw 2026
+  out_df=pd.DataFrame(out_df_list)
   return out_df.copy()
 
 def accuracy(out_df, top_rank_cutoff):
