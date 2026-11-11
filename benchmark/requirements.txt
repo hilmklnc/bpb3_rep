@@ -1,0 +1,4 @@
+# Local benchmark reconstruction and plotting only.
+# All parsing, validation, Figure 6 reconstruction, and bindFx evaluation code
+# otherwise uses the Python standard library.
+matplotlib>=3.5,<4
