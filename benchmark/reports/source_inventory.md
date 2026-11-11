@@ -11,7 +11,7 @@ Inventory date: 2026-11-05 (Europe/Istanbul).
 | Original 67 paired FASTAs | Experimental dataset representation / repository annotation | `final_demo_data/demo1_67snps/in/snps_ref.fasta`, `snps_alt.fasta` in `bpb3/bpb3` | 67 paired 61-bp sequences, one central substitution each. Joined to the mutation workbook in `data/variants_67.tsv`. |
 | bpb3 TF/effect group lists | Repository annotation | `bpb3/script/script_high/other/stored_tfs.py` | Defines 4 Fredriksson, 29 HGMD, and 34 Andersen/Epstein identifiers plus broad TF aliases used by the demo accuracy checker. Not treated as primary experimental evidence. |
 | Historical bpb3 full-run logs | Unavailable or unverified (outputs absent) | `final_demo/demo1_67snps/slurm-5779204.out`, `slurm-6020446.out` | Show a successful 67-sequence × 1,772-PWM, 10,000-shuffle bpb3 execution, but variant-level result tables are not committed. These logs do not supply predictions for this benchmark. |
-| Local minimal bpb3 run | Reproduced computational prediction | `/workspace/bpb3-verification/results/three-pwm` and `/workspace/bpb3-verification/REPORT.md` | One variant × three unmodified PWMs at 100 shuffles. Confirms the pipeline path only; excluded from the published prediction table and from benchmarking. |
+| Local minimal bpb3 run | Reproduced computational prediction | `benchmark/reports/original_workflow_verification.md` | One variant × three unmodified PWMs at 100 shuffles. Confirms the pipeline path only; excluded from the published prediction table and from benchmarking. |
 
 ## Publications and method context
 

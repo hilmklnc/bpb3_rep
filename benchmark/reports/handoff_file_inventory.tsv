@@ -1,0 +1,48 @@
+path	category	purpose	source_or_provenance	included_in_git	required_for
+docs/BPB3_HANDOFF.md	documentation	Scientific and local reproducibility handoff	This reconstruction	yes	handoff
+benchmark/README.md	documentation	Benchmark directory overview and commands	This reconstruction	yes	handoff
+benchmark/requirements.txt	dependency	Portable plotting dependency for macOS	This reconstruction	yes	plotting
+environment.yml	dependency	Original Linux/Python 3.9 bpb3 conda environment	Original repository	yes	original bpb3 only
+requirements.txt	dependency	Original conda-style package pins; not pip syntax	Original repository	yes	original bpb3 only
+final_demo_data/demo1_67snps/in/snps_ref.fasta	original input	67 reference 61-bp sequences	Original bpb3 repository	yes	benchmark source
+final_demo_data/demo1_67snps/in/snps_alt.fasta	original input	67 alternate 61-bp sequences	Original bpb3 repository	yes	benchmark source
+final_demo/demo1_67snps/bpb3_on_67snps_may22.py	original workflow	Original 67-SNP prediction driver and parameters	Original bpb3 repository	yes	method provenance
+final_demo/demo1_67snps/check_accuracy4snps	original workflow	Original bpb3 accuracy-check command wrapper	Original bpb3 repository	yes	method provenance
+final_demo/demo1_67snps/parallel_options.txt	original workflow	Original local parallel settings	Original bpb3 repository	yes	original bpb3 only
+final_demo/demo1_67snps/slurm-5779204.out	original log	Historical full-run log; no variant-level tables	Original bpb3 repository	yes	method provenance
+final_demo/demo1_67snps/slurm-6020446.out	original log	Historical full-run log; no variant-level tables	Original bpb3 repository	yes	method provenance
+final_demo_data/pwm/	original models	1,772 BayesPI .mlp TF binding models	Original bpb3 repository	yes	original bpb3 scoring
+bpb3/bin/Linux/bayesPI_affinity	original executable	x86-64 Linux affinity-scoring binary	Original bpb3 repository	yes	original bpb3 scoring on Linux
+bpb3/bin/Mac/bayesPI_affinity	original executable	x86-64 Mach-O affinity-scoring binary; untested here	Original bpb3 repository	yes	original bpb3 scoring on Intel macOS or Rosetta
+bpb3/script/script_high/other/stored_tfs.py	repository annotation	67 labels, groups, and broad demo aliases	Original bpb3 repository	yes	benchmark parsing
+benchmark/data/variants_67.tsv	processed data	Complete 67 paired sequences plus author metadata	Author workbook plus original FASTAs	yes	all evaluations
+benchmark/data/experimental_tf_effects.tsv	processed data	70 reported variant-TF-effect observations	Author workbook	yes	all evaluations
+benchmark/data/published_predictions.tsv	published predictions	16,000 BayesPI-BAR/sTRAP/is-rSNP ranking rows	2015 author ranking archive	yes	Figure 6
+benchmark/data/repository_67_manifest.tsv	intermediate data	Repository-only sequence and group manifest	Original FASTAs and stored_tfs.py	yes	provenance audit
+benchmark/data/figure6_best_ranks.tsv	derived result	Selected per-variant/method ranks for panels A/B	Reproduced from published predictions	yes	Figure 6
+benchmark/data/figure6_cumulative_accuracy.tsv	derived result	Rank 1-50 cumulative counts and fractions	Reproduced from published predictions	yes	Figure 6
+benchmark/data/figure6_pairwise_ranks.tsv	derived result	Capped ranks underlying panels C/D	Reproduced from published predictions	yes	Figure 6
+benchmark/data/bindfx_experimental_tf_overlap.tsv	TF mapping	Reviewed mapping of all 70 observations to bindFx inventory	User-supplied 403-model inventory plus manual review	yes	bindFx integration
+benchmark/data/bindfx_benchmark_strict_38.tsv	optional derived data	Legacy compact strict-overlap subset; not the benchmark input	Derived from reviewed mapping	yes	optional inspection only
+benchmark/schemas/bindfx_predictions.tsv	schema	Header-only bindFx prediction exchange format	This reconstruction	yes	bindFx integration
+benchmark/reports/source_inventory.md	provenance	Publication, repository, archive, and search inventory	This reconstruction	yes	handoff
+benchmark/reports/coverage_audit.md	quality audit	Coverage, missing fields, orientation, and ambiguity audit	This reconstruction	yes	handoff
+benchmark/reports/bindfx_overlap_audit.md	quality audit	Reviewed bindFx compatibility counts and caveats	This reconstruction	yes	bindFx integration
+benchmark/reports/figure6_reconstruction.md	method report	Figure 6 aggregation rules and numerical results	This reconstruction	yes	Figure 6
+benchmark/reports/figure6_reconstruction.png	figure	Regenerated four-panel Figure 6-style plot	Reproduced from committed numeric tables	yes	Figure 6
+benchmark/reports/original_workflow_verification.md	method report	Minimal original-workflow outputs, dependencies, errors, and limits	Executed smoke test	yes	method provenance
+benchmark/reports/handoff_file_inventory.tsv	inventory	Purpose, source, location, and Git inclusion for handoff assets	This reconstruction	yes	handoff
+benchmark/scripts/build_repository_manifest.py	script	Build repository-only 67-record manifest	This reconstruction	yes	provenance rebuild
+benchmark/scripts/fetch_published_sources.sh	script	Download and checksum author archives	This reconstruction	yes	source rebuild
+benchmark/scripts/build_benchmark_tables.py	script	Parse author archives into core TSVs	This reconstruction	yes	source rebuild
+benchmark/scripts/validate_benchmark.py	script	Validate core schemas, ranks, coverage, and sequences	This reconstruction	yes	validation
+benchmark/scripts/reproduce_figure6.py	script	Apply original alias/minimum-rank Figure 6 logic	This reconstruction	yes	Figure 6
+benchmark/scripts/plot_figure6_reconstruction.py	script	Plot reconstructed panels from numerical TSVs	This reconstruction	yes	Figure 6
+benchmark/scripts/match_bindfx_models.py	script	Regenerate reviewed mapping from 403-model summary	This reconstruction	yes	bindFx mapping rebuild
+benchmark/scripts/build_bindfx_compact_benchmark.py	script	Regenerate optional strict 38-variant convenience table	This reconstruction	yes	optional inspection only
+benchmark/scripts/evaluate_bindfx_predictions.py	script	Validate, rank, and evaluate external bindFx TSV	This reconstruction	yes	bindFx integration
+benchmark/scripts/verify_handoff.py	script	Check committed handoff assets and expected scientific results	This reconstruction	yes	clean verification
+benchmark/cache/BayesPI-BAR/Mutations.tar.gz	external download	Original author workbook archive	junbaiw/BayesPI-BAR commit 316bf2a; SHA-256 9108a14e...	no; Git-ignored	optional source rebuild
+benchmark/cache/BayesPI-BAR/rankings.tar.gz	external download	Original published comparison rankings	junbaiw/BayesPI-BAR commit 316bf2a; SHA-256 cf8d614d...	no; Git-ignored	optional source rebuild
+403TFmodel_summary.csv	external user input	403-model bindFx inventory used to generate reviewed mapping	User-supplied; SHA-256 565deadc...	no	TF mapping regeneration only
+bindFx prediction TSV	external future input	Real local bindFx predictions following committed schema	Not yet available	no	future bindFx evaluation

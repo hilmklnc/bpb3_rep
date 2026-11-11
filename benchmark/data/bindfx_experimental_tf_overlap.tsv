@@ -1,0 +1,71 @@
+benchmark_id	repository_label	reported_tf_or_motif	experimental_effect	canonical_tf_concept	match_tier	bindfx_model_names	bindfx_ensembl_ids	bindfx_model_count	primary_benchmark_eligible	secondary_family_analysis_eligible	mapping_rationale
+BPB3_67_001	AGTRL1_SP1|GAIN	Sp1	Gain	SP1	exact_gene	SP1	ENSG00000185591	1	yes	no	case-normalized gene symbol; asterisk stripped where present
+BPB3_67_002	ITGA2_SP1|LOSS	Sp1	Loss	SP1	exact_gene	SP1	ENSG00000185591	1	yes	no	case-normalized gene symbol; asterisk stripped where present
+BPB3_67_003	NFKBIL1_USF1|LOSS	USF1	Loss	USF1	exact_gene	USF1	ENSG00000158773	1	yes	no	exact gene symbol
+BPB3_67_004	IRF2_IRF1|LOSS	IRF1*	Loss	IRF1	exact_gene	IRF1	ENSG00000125347	1	yes	no	asterisk stripped where present; exact gene model
+BPB3_67_005	AFP_HNF-1_1|GAIN	HNF-1	Gain	HNF1 family	unavailable			0	no	no	neither HNF1A nor HNF1B is available
+BPB3_67_006	AFP_HNF-1_2|GAIN	HNF-1	Gain	HNF1 family	unavailable			0	no	no	neither HNF1A nor HNF1B is available
+BPB3_67_007	SP1_NFY|UNKNOWN	NF-Y	Unknown	NF-Y complex	family_or_motif	NFYA;NFYB;NFYC	ENSG00000001167;ENSG00000120837;ENSG00000066136	3	no	yes	heterotrimeric NF-Y complex; component models are available
+BPB3_67_008	ALOX15_SPI1|GAIN	SPI1	Gain	SPI1	exact_gene	SPI1	ENSG00000066336	1	yes	no	exact gene symbol
+BPB3_67_009	CETP_SP1|UNKNOWN	Sp1	Unknown	SP1	exact_gene	SP1	ENSG00000185591	1	yes	no	case-normalized gene symbol; asterisk stripped where present
+BPB3_67_010	SFTPB_SP-1|GAIN	Sp1*	Gain	SP1	exact_gene	SP1	ENSG00000185591	1	yes	no	case-normalized gene symbol; asterisk stripped where present
+BPB3_67_011	PTGS2_c-MYB|GAIN	c-MYB	Gain	MYB	unavailable			0	no	no	MYB is absent; MYBL2 is not treated as equivalent
+BPB3_67_012	LIPC_USF|LOSS	USF	Loss	USF family	family_or_motif	USF1;USF2	ENSG00000158773;ENSG00000105698	2	no	yes	generic USF label does not distinguish USF1 and USF2
+BPB3_67_013	FTH1_NFY|UNKNOWN	NF-Y	Unknown	NF-Y complex	family_or_motif	NFYA;NFYB;NFYC	ENSG00000001167;ENSG00000120837;ENSG00000066136	3	no	yes	heterotrimeric NF-Y complex; component models are available
+BPB3_67_014	HOXB7_USF1|UNKNOWN	USF-1*	Unknown	USF1	established_alias	USF1	ENSG00000158773	1	yes	no	USF-1 is USF1; asterisk stripped
+BPB3_67_015	FLT1_P53|GAIN	p53	Gain	TP53	unavailable			0	no	no	TP53 model is absent
+BPB3_67_016	GPD2_NRF2|UNKNOWN	NRF-2	Unknown	NFE2L2	established_alias	NFE2L2	ENSG00000116044	1	yes	no	NRF2 is the established alias of NFE2L2
+BPB3_67_017	F9_HLF|UNKNOWN	HLF	Unknown	HLF	exact_gene	HLF	ENSG00000108924	1	yes	no	exact gene symbol
+BPB3_67_018	OPRM1_NFKB|UNKNOWN	NFkB	Unknown	NF-kappaB family	unavailable			0	no	no	no NFKB1/NFKB2/RELA/RELB/REL model is available
+BPB3_67_019	FECH_SP1|LOSS	SP1	Loss	SP1	exact_gene	SP1	ENSG00000185591	1	yes	no	case-normalized gene symbol; asterisk stripped where present
+BPB3_67_020	TCOf1_YY1|LOSS	YY1	Loss	YY1	exact_gene	YY1	ENSG00000100811	1	yes	no	exact gene symbol
+BPB3_67_021	IRF6_AP-2alpha|LOSS	AP-2alpha	Loss	TFAP2A	established_alias	TFAP2A	ENSG00000137203	1	yes	no	AP-2alpha is an established name for TFAP2A
+BPB3_67_022	HBB_CCAAT|UNKNOWN	CCAAT	Unknown	CCAAT/NF-Y motif	family_or_motif	NFYA;NFYB;NFYC	ENSG00000001167;ENSG00000120837;ENSG00000066136	3	no	yes	motif is commonly bound by NF-Y but is not a unique TF label
+BPB3_67_023	HBB_CACCC_1|UNKNOWN	CACCC	Unknown	CACCC-binding KLF family	family_or_motif	KLF1;KLF9;KLF11;KLF12	ENSG00000105610;ENSG00000119138;ENSG00000172059;ENSG00000118922	4	no	yes	motif label does not identify one TF; available KLF models are candidates only
+BPB3_67_024	COL1A1_Sp1|UNKNOWN	Sp1	Unknown	SP1	exact_gene	SP1	ENSG00000185591	1	yes	no	case-normalized gene symbol; asterisk stripped where present
+BPB3_67_025	SOX9_MSX1|UNKNOWN	MSX1	Unknown	MSX1	unavailable			0	no	no	MSX1 is absent; MSX2/MSX3 are not treated as equivalent
+BPB3_67_026	GP1BB_GATA-1|LOSS	GATA-1	Loss	GATA1	established_alias	GATA1	ENSG00000102145	1	yes	no	GATA-1 is GATA1
+BPB3_67_027	PKLR_GATA-A|LOSS	GATA-1	Loss	GATA1	established_alias	GATA1	ENSG00000102145	1	yes	no	GATA-1 is GATA1
+BPB3_67_028	F9_HNF-4|UNKNOWN	HNF-4	Unknown	HNF4 family	family_or_motif	HNF4A;HNF4G	ENSG00000101076;ENSG00000164749	2	no	yes	reported HNF-4 label does not distinguish HNF4A and HNF4G
+BPB3_67_029	F9_C/EBP|LOSS	C/EBP	Loss	C/EBP family	family_or_motif	CEBPA;CEBPB;CEBPD;CEBPG	ENSG00000245848;ENSG00000172216;ENSG00000221869;ENSG00000153879	4	no	yes	reported family does not identify one CEBP gene
+BPB3_67_030	HBM_GATA-1|GAIN	GATA-1	Gain	GATA1	established_alias	GATA1	ENSG00000102145	1	yes	no	GATA-1 is GATA1
+BPB3_67_031	HBB_CACCC_2|UNKNOWN	CACCC	Unknown	CACCC-binding KLF family	family_or_motif	KLF1;KLF9;KLF11;KLF12	ENSG00000105610;ENSG00000119138;ENSG00000172059;ENSG00000118922	4	no	yes	motif label does not identify one TF; available KLF models are candidates only
+BPB3_67_032	HBB_CACCC_3|UNKNOWN	CACCC	Unknown	CACCC-binding KLF family	family_or_motif	KLF1;KLF9;KLF11;KLF12	ENSG00000105610;ENSG00000119138;ENSG00000172059;ENSG00000118922	4	no	yes	motif label does not identify one TF; available KLF models are candidates only
+BPB3_67_033	HBB_CACCC_4|UNKNOWN	CACCC	Unknown	CACCC-binding KLF family	family_or_motif	KLF1;KLF9;KLF11;KLF12	ENSG00000105610;ENSG00000119138;ENSG00000172059;ENSG00000118922	4	no	yes	motif label does not identify one TF; available KLF models are candidates only
+BPB3_67_034	HBB_CACCC_5|UNKNOWN	CACCC	Unknown	CACCC-binding KLF family	family_or_motif	KLF1;KLF9;KLF11;KLF12	ENSG00000105610;ENSG00000119138;ENSG00000172059;ENSG00000118922	4	no	yes	motif label does not identify one TF; available KLF models are candidates only
+BPB3_67_035	ADAMTS18_TEL2|GAIN	TEL2	Gain	ETV7	unavailable			0	no	no	TEL2 is an alias of ETV7; ETV7 model is absent
+BPB3_67_036	CDKN2B-AS1_STAT1|LOSS	STAT1	Loss	STAT1	unavailable			0	no	no	STAT1 model is absent
+BPB3_67_037	CHGB_SRY|LOSS_YY1|LOSS	SRY	Loss	SRY	unavailable			0	no	no	SRY model is absent
+BPB3_67_037	CHGB_SRY|LOSS_YY1|LOSS	YY1	Loss	YY1	exact_gene	YY1	ENSG00000100811	1	yes	no	exact gene symbol
+BPB3_67_038	CHGB_c-FOS|LOSS	c-FOS	Loss	FOS	established_alias	FOS	ENSG00000170345	1	yes	no	c-FOS is FOS
+BPB3_67_039	CHRNA3_Oct-1|LOSS	Oct-1	Loss	POU2F1	established_alias	POU2F1	ENSG00000143190	1	yes	no	OCT-1 is the established alias of POU2F1
+BPB3_67_040	FABP4_C/EBP|LOSS	C/EBP	Loss	C/EBP family	family_or_motif	CEBPA;CEBPB;CEBPD;CEBPG	ENSG00000245848;ENSG00000172216;ENSG00000221869;ENSG00000153879	4	no	yes	reported family does not identify one CEBP gene
+BPB3_67_041	FAS_c-Rel|GAIN	c-Rel	Gain	REL	unavailable			0	no	no	REL model is absent
+BPB3_67_042	FMO1_YY1|LOSS	YY1	Loss	YY1	exact_gene	YY1	ENSG00000100811	1	yes	no	exact gene symbol
+BPB3_67_043	FOXE1_MYF-5|LOSS	MYF-5	Loss	MYF5	unavailable			0	no	no	MYF5 model is absent
+BPB3_67_044	FOXE1_USF1|GAIN_USF2|GAIN	USF1	Gain	USF1	exact_gene	USF1	ENSG00000158773	1	yes	no	exact gene symbol
+BPB3_67_044	FOXE1_USF1|GAIN_USF2|GAIN	USF2	Gain	USF2	exact_gene	USF2	ENSG00000105698	1	yes	no	exact gene symbol
+BPB3_67_045	FZD1_Egr1|GAIN	Egr1	Gain	EGR1	established_alias	EGR1	ENSG00000120738	1	yes	no	case-normalized gene symbol
+BPB3_67_046	GFI1B_Oct-1|LOSS	Oct-1	Loss	POU2F1	established_alias	POU2F1	ENSG00000143190	1	yes	no	OCT-1 is the established alias of POU2F1
+BPB3_67_047	GFI1B_GATA-1|LOSS	GATA-1	Loss	GATA1	established_alias	GATA1	ENSG00000102145	1	yes	no	GATA-1 is GATA1
+BPB3_67_048	GSTM1_AP-2-alpha|LOSS	AP-2-alpha	Loss	TFAP2A	established_alias	TFAP2A	ENSG00000137203	1	yes	no	AP-2alpha is an established name for TFAP2A
+BPB3_67_049	HBG2_GATA-1|LOSS	GATA-1	Loss	GATA1	established_alias	GATA1	ENSG00000102145	1	yes	no	GATA-1 is GATA1
+BPB3_67_050	IGF1_C/EBP-delta|LOSS	C/EBP-delta	Loss	CEBPD	established_alias	CEBPD	ENSG00000221869	1	yes	no	C/EBP-delta is CEBPD
+BPB3_67_051	IL18_OCT-1|GAIN	OCT-1	Gain	POU2F1	established_alias	POU2F1	ENSG00000143190	1	yes	no	OCT-1 is the established alias of POU2F1
+BPB3_67_052	IL4_Oct-1|LOSS	Oct-1	Loss	POU2F1	established_alias	POU2F1	ENSG00000143190	1	yes	no	OCT-1 is the established alias of POU2F1
+BPB3_67_053	LEP_Sp1|GAIN	Sp1	Gain	SP1	exact_gene	SP1	ENSG00000185591	1	yes	no	case-normalized gene symbol; asterisk stripped where present
+BPB3_67_054	MPZ_SOX10|LOSS	SOX10	Loss	SOX10	unavailable			0	no	no	SOX10 model is absent
+BPB3_67_055	MYC_TCF4|GAIN_beta-catenin|GAIN	TCF4	Gain	TCF7L2	established_alias	TCF7L2	ENSG00000148737	1	yes	no	TCF4 in beta-catenin signaling is the historical alias of TCF7L2
+BPB3_67_055	MYC_TCF4|GAIN_beta-catenin|GAIN	beta-catenin	Gain	CTNNB1	unavailable			0	no	no	beta-catenin is CTNNB1; model is absent and it is not a sequence-specific TF
+BPB3_67_056	PVT1_YY1|LOSS	YY1	Loss	YY1	exact_gene	YY1	ENSG00000100811	1	yes	no	exact gene symbol
+BPB3_67_057	SIRT1_p53|LOSS	p53	Loss	TP53	unavailable			0	no	no	TP53 model is absent
+BPB3_67_058	SLC47A1_Sp1|LOSS	Sp1	Loss	SP1	exact_gene	SP1	ENSG00000185591	1	yes	no	case-normalized gene symbol; asterisk stripped where present
+BPB3_67_059	SLC7A1_Sp1|LOSS	Sp1	Loss	SP1	exact_gene	SP1	ENSG00000185591	1	yes	no	case-normalized gene symbol; asterisk stripped where present
+BPB3_67_060	SORT1_C/EBP|GAIN	C/EBP	Gain	C/EBP family	family_or_motif	CEBPA;CEBPB;CEBPD;CEBPG	ENSG00000245848;ENSG00000172216;ENSG00000221869;ENSG00000153879	4	no	yes	reported family does not identify one CEBP gene
+BPB3_67_061	TMPRSS2_AR|LOSS	AR	Loss	AR	exact_gene	AR	ENSG00000169083	1	yes	no	exact gene symbol
+BPB3_67_062	UGT1A7_TBP|LOSS	TBP	Loss	TBP	exact_gene	TBP	ENSG00000112592	1	yes	no	exact gene symbol
+BPB3_67_063	UGT2B17_FOXA1|GAIN	FOXA1	Gain	FOXA1	exact_gene	FOXA1	ENSG00000129514	1	yes	no	exact gene symbol
+BPB3_67_064	TERT_ETS|GAIN_1	ETS	Gain	ETS family	family_or_motif	ETS1	ENSG00000134954	1	no	yes	reported ETS family label is not gene-specific
+BPB3_67_065	TERT_ETS|GAIN_2	ETS	Gain	ETS family	family_or_motif	ETS1	ENSG00000134954	1	no	yes	reported ETS family label is not gene-specific
+BPB3_67_066	TERT_ETS|GAIN_3	ETS	Gain	ETS family	family_or_motif	ETS1	ENSG00000134954	1	no	yes	reported ETS family label is not gene-specific
+BPB3_67_067	TERT_ETS|GAIN_4	ETS	Gain	ETS family	family_or_motif	ETS1	ENSG00000134954	1	no	yes	reported ETS family label is not gene-specific

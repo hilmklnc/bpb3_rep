@@ -1,0 +1,355 @@
+panel	benchmark_id	repository_label	method	experimental_targets	experimental_directions	best_rank	rank_capped_51	matched_model_or_tf	matched_predicted_change
+A_direction_not_considered	BPB3_67_001	AGTRL1_SP1|GAIN	BayesPI-BAR	SP1	GAIN	2	2	SP1_known6_from_SP1_5_from_Sp1_transfac_M00933	Positive
+A_direction_not_considered	BPB3_67_001	AGTRL1_SP1|GAIN	sTRAP	SP1	GAIN	13	13	SP1_known9_from_SP3_2_from_SP3_jolma_DBD_M30	Positive
+A_direction_not_considered	BPB3_67_001	AGTRL1_SP1|GAIN	is-rSNP	SP1	GAIN	2	2	Sp1	Positive
+A_direction_not_considered	BPB3_67_002	ITGA2_SP1|LOSS	BayesPI-BAR	SP1	LOSS	1	1	SP1_known2_from_SP1_2_from_Sp1_transfac_M00196	Positive
+A_direction_not_considered	BPB3_67_002	ITGA2_SP1|LOSS	sTRAP	SP1	LOSS	11	11	SP1_known1_from_SP1_1_from_Sp1_transfac_M00008	Negative
+A_direction_not_considered	BPB3_67_002	ITGA2_SP1|LOSS	is-rSNP	SP1	LOSS	1	1	SP1	Negative
+A_direction_not_considered	BPB3_67_003	NFKBIL1_USF1|LOSS	BayesPI-BAR	USF1	LOSS	11	11	MYC_known7_from_USF_4_from_USF_transfac_M00217	Negative
+A_direction_not_considered	BPB3_67_003	NFKBIL1_USF1|LOSS	sTRAP	USF1	LOSS	12	12	MYC_known7_from_USF_4_from_USF_transfac_M00217	Negative
+A_direction_not_considered	BPB3_67_003	NFKBIL1_USF1|LOSS	is-rSNP	USF1	LOSS	42	42	USF	Negative
+A_direction_not_considered	BPB3_67_004	IRF2_IRF1|LOSS	BayesPI-BAR	IRF1	LOSS	4	4	IRF_known9_from_IRF1_3_from_IRF1_jaspar_MA0050	Negative
+A_direction_not_considered	BPB3_67_004	IRF2_IRF1|LOSS	sTRAP	IRF1	LOSS	9	9	IRF_known9_from_IRF1_3_from_IRF1_jaspar_MA0050	Negative
+A_direction_not_considered	BPB3_67_004	IRF2_IRF1|LOSS	is-rSNP	IRF1	LOSS	3	3	IRF-1	Negative
+A_direction_not_considered	BPB3_67_005	AFP_HNF-1_1|GAIN	BayesPI-BAR	HNF-1	GAIN	1	1	HNF1B_4_from_HNF1B_jolma_full_M519	Positive
+A_direction_not_considered	BPB3_67_005	AFP_HNF-1_1|GAIN	sTRAP	HNF-1	GAIN	1	1	HNF1A_1_from_HNF1A_jaspar_MA0046	Positive
+A_direction_not_considered	BPB3_67_005	AFP_HNF-1_1|GAIN	is-rSNP	HNF-1	GAIN	1	1	HNF1	Positive
+A_direction_not_considered	BPB3_67_006	AFP_HNF-1_2|GAIN	BayesPI-BAR	HNF-1	GAIN	1	1	HNF1B_3_from_HNF1B_jolma_full_M518	Positive
+A_direction_not_considered	BPB3_67_006	AFP_HNF-1_2|GAIN	sTRAP	HNF-1	GAIN	1	1	HNF1_3_from_HNF1_transfac_M00790	Positive
+A_direction_not_considered	BPB3_67_006	AFP_HNF-1_2|GAIN	is-rSNP	HNF-1	GAIN	1	1	HNF1	Positive
+A_direction_not_considered	BPB3_67_007	SP1_NFY|UNKNOWN	BayesPI-BAR	NFY	UNKNOWN	7	7	NFY_known3_from_NFY_3_from_NF-Y_transfac_M00287	Negative
+A_direction_not_considered	BPB3_67_007	SP1_NFY|UNKNOWN	sTRAP	NFY	UNKNOWN	4	4	NFY_known5_from_NFY_5_from_NF-Y_transfac_M00775	Negative
+A_direction_not_considered	BPB3_67_007	SP1_NFY|UNKNOWN	is-rSNP	NFY	UNKNOWN	11	11	NF-Y	Negative
+A_direction_not_considered	BPB3_67_008	ALOX15_SPI1|GAIN	BayesPI-BAR	SPI1	GAIN	11	11	SPI1_known2_from_SPI1_2_from_SPI1_jaspar_MA0080	Positive
+A_direction_not_considered	BPB3_67_008	ALOX15_SPI1|GAIN	sTRAP	SPI1	GAIN	8	8	SPI1_known3_from_SPI1_3_from_Sfpi1_bulyk_sc09-primary	Positive
+A_direction_not_considered	BPB3_67_008	ALOX15_SPI1|GAIN	is-rSNP	SPI1	GAIN		51	NA	NA
+A_direction_not_considered	BPB3_67_009	CETP_SP1|UNKNOWN	BayesPI-BAR	SP1	UNKNOWN	4	4	SP1_known3_from_SP3_1_from_Sp3_transfac_M00665	Negative
+A_direction_not_considered	BPB3_67_009	CETP_SP1|UNKNOWN	sTRAP	SP1	UNKNOWN	3	3	SP1_known3_from_SP3_1_from_Sp3_transfac_M00665	Negative
+A_direction_not_considered	BPB3_67_009	CETP_SP1|UNKNOWN	is-rSNP	SP1	UNKNOWN	4	4	SP1:SP3	Negative
+A_direction_not_considered	BPB3_67_010	SFTPB_SP-1|GAIN	BayesPI-BAR	SP-1	GAIN	5	5	SP1_known4_from_SP1_3_from_Sp1_transfac_M00931	Negative
+A_direction_not_considered	BPB3_67_010	SFTPB_SP-1|GAIN	sTRAP	SP-1	GAIN		51	NA	NA
+A_direction_not_considered	BPB3_67_010	SFTPB_SP-1|GAIN	is-rSNP	SP-1	GAIN		51	NA	NA
+A_direction_not_considered	BPB3_67_011	PTGS2_c-MYB|GAIN	BayesPI-BAR	C-MYB	GAIN	1	1	MYB_5_from_Myb_jaspar_MA0100	Negative
+A_direction_not_considered	BPB3_67_011	PTGS2_c-MYB|GAIN	sTRAP	C-MYB	GAIN	1	1	MYB_4_from_MYB_transfac_M00913	Negative
+A_direction_not_considered	BPB3_67_011	PTGS2_c-MYB|GAIN	is-rSNP	C-MYB	GAIN	3	3	MYB	Negative
+A_direction_not_considered	BPB3_67_012	LIPC_USF|LOSS	BayesPI-BAR	USF	LOSS	1	1	MYC_known7_from_USF_4_from_USF_transfac_M00217	Negative
+A_direction_not_considered	BPB3_67_012	LIPC_USF|LOSS	sTRAP	USF	LOSS	2	2	MYC_known6_from_USF_3_from_USF_transfac_M00187	Negative
+A_direction_not_considered	BPB3_67_012	LIPC_USF|LOSS	is-rSNP	USF	LOSS	1	1	USF	Negative
+A_direction_not_considered	BPB3_67_013	FTH1_NFY|UNKNOWN	BayesPI-BAR	NFY	UNKNOWN	8	8	NFY_known3_from_NFY_3_from_NF-Y_transfac_M00287	Positive
+A_direction_not_considered	BPB3_67_013	FTH1_NFY|UNKNOWN	sTRAP	NFY	UNKNOWN		51	NA	NA
+A_direction_not_considered	BPB3_67_013	FTH1_NFY|UNKNOWN	is-rSNP	NFY	UNKNOWN	16	16	NF-Y	Positive
+A_direction_not_considered	BPB3_67_014	HOXB7_USF1|UNKNOWN	BayesPI-BAR	USF1	UNKNOWN	2	2	MYC_known3_from_USF_1_from_USF_transfac_M00121	Negative
+A_direction_not_considered	BPB3_67_014	HOXB7_USF1|UNKNOWN	sTRAP	USF1	UNKNOWN		51	NA	NA
+A_direction_not_considered	BPB3_67_014	HOXB7_USF1|UNKNOWN	is-rSNP	USF1	UNKNOWN	2	2	USF	Negative
+A_direction_not_considered	BPB3_67_015	FLT1_P53|GAIN	BayesPI-BAR	P53	GAIN	1	1	TP53_2_from_p53_transfac_M00272	Positive
+A_direction_not_considered	BPB3_67_015	FLT1_P53|GAIN	sTRAP	P53	GAIN	1	1	TP53_3_from_p53-decamer_transfac_M00761	Positive
+A_direction_not_considered	BPB3_67_015	FLT1_P53|GAIN	is-rSNP	P53	GAIN	1	1	p53	Positive
+A_direction_not_considered	BPB3_67_016	GPD2_NRF2|UNKNOWN	BayesPI-BAR	NRF2	UNKNOWN		51	NA	NA
+A_direction_not_considered	BPB3_67_016	GPD2_NRF2|UNKNOWN	sTRAP	NRF2	UNKNOWN	30	30	NFE2_known2_from_NFE2_2_from_NFE2_jolma_DBD_M391	Positive
+A_direction_not_considered	BPB3_67_016	GPD2_NRF2|UNKNOWN	is-rSNP	NRF2	UNKNOWN		51	NA	NA
+A_direction_not_considered	BPB3_67_017	F9_HLF|UNKNOWN	BayesPI-BAR	HLF	UNKNOWN		51	NA	NA
+A_direction_not_considered	BPB3_67_017	F9_HLF|UNKNOWN	sTRAP	HLF	UNKNOWN		51	NA	NA
+A_direction_not_considered	BPB3_67_017	F9_HLF|UNKNOWN	is-rSNP	HLF	UNKNOWN		51	NA	NA
+A_direction_not_considered	BPB3_67_018	OPRM1_NFKB|UNKNOWN	BayesPI-BAR	NFKB	UNKNOWN		51	NA	NA
+A_direction_not_considered	BPB3_67_018	OPRM1_NFKB|UNKNOWN	sTRAP	NFKB	UNKNOWN	12	12	NFKB_known5_from_NFKB_3_from_NF-kappaB_transfac_M00208	Positive
+A_direction_not_considered	BPB3_67_018	OPRM1_NFKB|UNKNOWN	is-rSNP	NFKB	UNKNOWN	3	3	NF-kappaB	Positive
+A_direction_not_considered	BPB3_67_019	FECH_SP1|LOSS	BayesPI-BAR	SP1	LOSS	8	8	SP1_known7_from_SP1_6_from_SP1_jaspar_MA0079	Positive
+A_direction_not_considered	BPB3_67_019	FECH_SP1|LOSS	sTRAP	SP1	LOSS		51	NA	NA
+A_direction_not_considered	BPB3_67_019	FECH_SP1|LOSS	is-rSNP	SP1	LOSS	13	13	Sp1	Negative
+A_direction_not_considered	BPB3_67_020	TCOf1_YY1|LOSS	BayesPI-BAR	YY1	LOSS	12	12	YY1_known6_from_YY1_6_from_YY1_jaspar_MA0095	Negative
+A_direction_not_considered	BPB3_67_020	TCOf1_YY1|LOSS	sTRAP	YY1	LOSS	12	12	YY1_known3_from_YY1_3_from_NF-muE1_transfac_M00651	Negative
+A_direction_not_considered	BPB3_67_020	TCOf1_YY1|LOSS	is-rSNP	YY1	LOSS		51	NA	NA
+A_direction_not_considered	BPB3_67_021	IRF6_AP-2alpha|LOSS	BayesPI-BAR	AP-2ALPHA	LOSS	4	4	TFAP2_known2_from_TFAP2A_1_from_AP-2alpha_transfac_M00469	Negative
+A_direction_not_considered	BPB3_67_021	IRF6_AP-2alpha|LOSS	sTRAP	AP-2ALPHA	LOSS		51	NA	NA
+A_direction_not_considered	BPB3_67_021	IRF6_AP-2alpha|LOSS	is-rSNP	AP-2ALPHA	LOSS	12	12	AP-2alphaA	Positive
+A_direction_not_considered	BPB3_67_022	HBB_CCAAT|UNKNOWN	BayesPI-BAR	CCAAT	UNKNOWN	4	4	CEBPA_1_from_CorEBPalpha_transfac_M00116	Negative
+A_direction_not_considered	BPB3_67_022	HBB_CCAAT|UNKNOWN	sTRAP	CCAAT	UNKNOWN		51	NA	NA
+A_direction_not_considered	BPB3_67_022	HBB_CCAAT|UNKNOWN	is-rSNP	CCAAT	UNKNOWN	22	22	C/EBPbeta	Positive
+A_direction_not_considered	BPB3_67_023	HBB_CACCC_1|UNKNOWN	BayesPI-BAR	CACCC	UNKNOWN	5	5	KLF4_1_from_Klf4_jaspar_MA0039	Negative
+A_direction_not_considered	BPB3_67_023	HBB_CACCC_1|UNKNOWN	sTRAP	CACCC	UNKNOWN	7	7	KLF12_1_from_AP-2rep_transfac_M00468	Negative
+A_direction_not_considered	BPB3_67_023	HBB_CACCC_1|UNKNOWN	is-rSNP	CACCC	UNKNOWN	2	2	CACCC-binding	Negative
+A_direction_not_considered	BPB3_67_024	COL1A1_Sp1|UNKNOWN	BayesPI-BAR	SP1	UNKNOWN	2	2	SP1_known2_from_SP1_2_from_Sp1_transfac_M00196	Negative
+A_direction_not_considered	BPB3_67_024	COL1A1_Sp1|UNKNOWN	sTRAP	SP1	UNKNOWN	5	5	SP1_known3_from_SP3_1_from_Sp3_transfac_M00665	Negative
+A_direction_not_considered	BPB3_67_024	COL1A1_Sp1|UNKNOWN	is-rSNP	SP1	UNKNOWN	4	4	SP1:SP3	Negative
+A_direction_not_considered	BPB3_67_025	SOX9_MSX1|UNKNOWN	BayesPI-BAR	MSX1	UNKNOWN	3	3	MSX1_1_from_Msx-1_transfac_M00394	Negative
+A_direction_not_considered	BPB3_67_025	SOX9_MSX1|UNKNOWN	sTRAP	MSX1	UNKNOWN	5	5	MSX1_5_from_MSX1_jolma_full_M593	Negative
+A_direction_not_considered	BPB3_67_025	SOX9_MSX1|UNKNOWN	is-rSNP	MSX1	UNKNOWN	61	51	Msx-1	Negative
+A_direction_not_considered	BPB3_67_026	GP1BB_GATA-1|LOSS	BayesPI-BAR	GATA-1	LOSS	1	1	GATA_known12_from_GATA2_2_from_GATA2_jaspar_MA0036	Negative
+A_direction_not_considered	BPB3_67_026	GP1BB_GATA-1|LOSS	sTRAP	GATA-1	LOSS	1	1	GATA_known6_from_GATA1_4_from_GATA-1_transfac_M00128	Negative
+A_direction_not_considered	BPB3_67_026	GP1BB_GATA-1|LOSS	is-rSNP	GATA-1	LOSS		51	NA	NA
+A_direction_not_considered	BPB3_67_027	PKLR_GATA-A|LOSS	BayesPI-BAR	GATA-A	LOSS	1	1	GATA_known22_from_GATA5_2_from_GATA5_jolma_DBD_M130	Negative
+A_direction_not_considered	BPB3_67_027	PKLR_GATA-A|LOSS	sTRAP	GATA-A	LOSS	1	1	GATA_known7_from_GATA_1_from_GATA-X_transfac_M00203	Negative
+A_direction_not_considered	BPB3_67_027	PKLR_GATA-A|LOSS	is-rSNP	GATA-A	LOSS	7	7	GATA-4	Negative
+A_direction_not_considered	BPB3_67_028	F9_HNF-4|UNKNOWN	BayesPI-BAR	HNF-4	UNKNOWN	1	1	HNF4_known8_from_HNF4_5_from_HNF4,-COUP_transfac_M00967	Negative
+A_direction_not_considered	BPB3_67_028	F9_HNF-4|UNKNOWN	sTRAP	HNF-4	UNKNOWN	1	1	HNF4_known18_from_HNF4A_11_from_HNF4A_jolma_full_M670	Negative
+A_direction_not_considered	BPB3_67_028	F9_HNF-4|UNKNOWN	is-rSNP	HNF-4	UNKNOWN	4	4	HNF4	Positive
+A_direction_not_considered	BPB3_67_029	F9_C/EBP|LOSS	BayesPI-BAR	CEBP	LOSS	1	1	CEBPA_2_from_CEBPA_jaspar_MA0102	Negative
+A_direction_not_considered	BPB3_67_029	F9_C/EBP|LOSS	sTRAP	CEBP	LOSS	1	1	CEBPB_known1_from_CEBPB_1_from_CorEBPbeta_transfac_M00109	Negative
+A_direction_not_considered	BPB3_67_029	F9_C/EBP|LOSS	is-rSNP	CEBP	LOSS	1	1	C/EBP	Negative
+A_direction_not_considered	BPB3_67_030	HBM_GATA-1|GAIN	BayesPI-BAR	GATA-1	GAIN	1	1	GATA_known14_from_GATA_3_from_Tal1::Gata1_jaspar_MA0140	Positive
+A_direction_not_considered	BPB3_67_030	HBM_GATA-1|GAIN	sTRAP	GATA-1	GAIN	1	1	GATA_known14_from_GATA_3_from_Tal1::Gata1_jaspar_MA0140	Positive
+A_direction_not_considered	BPB3_67_030	HBM_GATA-1|GAIN	is-rSNP	GATA-1	GAIN		51	NA	NA
+A_direction_not_considered	BPB3_67_031	HBB_CACCC_2|UNKNOWN	BayesPI-BAR	CACCC	UNKNOWN	1	1	CACD_1_from_CACCC-binding-factor_transfac_M00721	Negative
+A_direction_not_considered	BPB3_67_031	HBB_CACCC_2|UNKNOWN	sTRAP	CACCC	UNKNOWN	1	1	CACD_1_from_CACCC-binding-factor_transfac_M00721	Negative
+A_direction_not_considered	BPB3_67_031	HBB_CACCC_2|UNKNOWN	is-rSNP	CACCC	UNKNOWN	1	1	CACCC-binding	Negative
+A_direction_not_considered	BPB3_67_032	HBB_CACCC_3|UNKNOWN	BayesPI-BAR	CACCC	UNKNOWN	1	1	CACD_1_from_CACCC-binding-factor_transfac_M00721	Negative
+A_direction_not_considered	BPB3_67_032	HBB_CACCC_3|UNKNOWN	sTRAP	CACCC	UNKNOWN	1	1	CACD_1_from_CACCC-binding-factor_transfac_M00721	Negative
+A_direction_not_considered	BPB3_67_032	HBB_CACCC_3|UNKNOWN	is-rSNP	CACCC	UNKNOWN	1	1	CACCC-binding	Negative
+A_direction_not_considered	BPB3_67_033	HBB_CACCC_4|UNKNOWN	BayesPI-BAR	CACCC	UNKNOWN	1	1	CACD_1_from_CACCC-binding-factor_transfac_M00721	Negative
+A_direction_not_considered	BPB3_67_033	HBB_CACCC_4|UNKNOWN	sTRAP	CACCC	UNKNOWN	1	1	CACD_1_from_CACCC-binding-factor_transfac_M00721	Negative
+A_direction_not_considered	BPB3_67_033	HBB_CACCC_4|UNKNOWN	is-rSNP	CACCC	UNKNOWN	1	1	CACCC-binding	Negative
+A_direction_not_considered	BPB3_67_034	HBB_CACCC_5|UNKNOWN	BayesPI-BAR	CACCC	UNKNOWN	1	1	CACD_1_from_CACCC-binding-factor_transfac_M00721	Negative
+A_direction_not_considered	BPB3_67_034	HBB_CACCC_5|UNKNOWN	sTRAP	CACCC	UNKNOWN	1	1	CACD_1_from_CACCC-binding-factor_transfac_M00721	Negative
+A_direction_not_considered	BPB3_67_034	HBB_CACCC_5|UNKNOWN	is-rSNP	CACCC	UNKNOWN	1	1	CACCC-binding	Negative
+A_direction_not_considered	BPB3_67_035	ADAMTS18_TEL2|GAIN	BayesPI-BAR	TEL2	GAIN		51	NA	NA
+A_direction_not_considered	BPB3_67_035	ADAMTS18_TEL2|GAIN	sTRAP	TEL2	GAIN	4	4	ETV7_1_from_Tel-2_transfac_M00678	Negative
+A_direction_not_considered	BPB3_67_035	ADAMTS18_TEL2|GAIN	is-rSNP	TEL2	GAIN		51	NA	NA
+A_direction_not_considered	BPB3_67_036	CDKN2B-AS1_STAT1|LOSS	BayesPI-BAR	STAT1	LOSS	2	2	STAT_known15_from_STAT_2_from_STAT_transfac_M00777	Positive
+A_direction_not_considered	BPB3_67_036	CDKN2B-AS1_STAT1|LOSS	sTRAP	STAT1	LOSS	5	5	STAT_known2_from_STAT1_1_from_STAT1_transfac_M00224	Negative
+A_direction_not_considered	BPB3_67_036	CDKN2B-AS1_STAT1|LOSS	is-rSNP	STAT1	LOSS	1	1	STAT1	Negative
+A_direction_not_considered	BPB3_67_037	CHGB_SRY|LOSS_YY1|LOSS	BayesPI-BAR	SRY;YY1	LOSS;LOSS	2	2	YY1_known1_from_YY1_1_from_YY1_transfac_M00059	Negative
+A_direction_not_considered	BPB3_67_037	CHGB_SRY|LOSS_YY1|LOSS	sTRAP	SRY;YY1	LOSS;LOSS	1	1	YY1_known6_from_YY1_6_from_YY1_jaspar_MA0095	Negative
+A_direction_not_considered	BPB3_67_037	CHGB_SRY|LOSS_YY1|LOSS	is-rSNP	SRY;YY1	LOSS;LOSS	1	1	YY1	Negative
+A_direction_not_considered	BPB3_67_038	CHGB_c-FOS|LOSS	BayesPI-BAR	C-FOS	LOSS	3	3	AP1_known6_from_AP1_7_from_AP-1_transfac_M00517	Negative
+A_direction_not_considered	BPB3_67_038	CHGB_c-FOS|LOSS	sTRAP	C-FOS	LOSS	1	1	AP1_known6_from_AP1_7_from_AP-1_transfac_M00517	Negative
+A_direction_not_considered	BPB3_67_038	CHGB_c-FOS|LOSS	is-rSNP	C-FOS	LOSS	14	14	AP-1	Negative
+A_direction_not_considered	BPB3_67_039	CHRNA3_Oct-1|LOSS	BayesPI-BAR	OCT-1	LOSS	1	1	POU2F2_known10_from_POU2F1_9_from_Oct-1_transfac_M00342	Negative
+A_direction_not_considered	BPB3_67_039	CHRNA3_Oct-1|LOSS	sTRAP	OCT-1	LOSS	1	1	POU2F2_known12_from_POU2F1_10_from_Oct-1_transfac_M00930	Negative
+A_direction_not_considered	BPB3_67_039	CHRNA3_Oct-1|LOSS	is-rSNP	OCT-1	LOSS	1	1	Octamer	Negative
+A_direction_not_considered	BPB3_67_040	FABP4_C/EBP|LOSS	BayesPI-BAR	CEBP	LOSS		51	NA	NA
+A_direction_not_considered	BPB3_67_040	FABP4_C/EBP|LOSS	sTRAP	CEBP	LOSS		51	NA	NA
+A_direction_not_considered	BPB3_67_040	FABP4_C/EBP|LOSS	is-rSNP	CEBP	LOSS	16	16	C/EBPalpha	Negative
+A_direction_not_considered	BPB3_67_041	FAS_c-Rel|GAIN	BayesPI-BAR	C-REL	GAIN	11	11	REL_1_from_c-Rel_transfac_M00053	Positive
+A_direction_not_considered	BPB3_67_041	FAS_c-Rel|GAIN	sTRAP	C-REL	GAIN	50	50	REL_1_from_c-Rel_transfac_M00053	Positive
+A_direction_not_considered	BPB3_67_041	FAS_c-Rel|GAIN	is-rSNP	C-REL	GAIN		51	NA	NA
+A_direction_not_considered	BPB3_67_042	FMO1_YY1|LOSS	BayesPI-BAR	YY1	LOSS		51	NA	NA
+A_direction_not_considered	BPB3_67_042	FMO1_YY1|LOSS	sTRAP	YY1	LOSS		51	NA	NA
+A_direction_not_considered	BPB3_67_042	FMO1_YY1|LOSS	is-rSNP	YY1	LOSS	16	16	YY1	Negative
+A_direction_not_considered	BPB3_67_043	FOXE1_MYF-5|LOSS	BayesPI-BAR	MYF-5	LOSS	28	28	MYF6_1_from_Myf6_bulyk_sc09-primary	Positive
+A_direction_not_considered	BPB3_67_043	FOXE1_MYF-5|LOSS	sTRAP	MYF-5	LOSS		51	NA	NA
+A_direction_not_considered	BPB3_67_043	FOXE1_MYF-5|LOSS	is-rSNP	MYF-5	LOSS		51	NA	NA
+A_direction_not_considered	BPB3_67_044	FOXE1_USF1|GAIN_USF2|GAIN	BayesPI-BAR	USF1;USF2	GAIN;GAIN	2	2	MYC_known6_from_USF_3_from_USF_transfac_M00187	Positive
+A_direction_not_considered	BPB3_67_044	FOXE1_USF1|GAIN_USF2|GAIN	sTRAP	USF1;USF2	GAIN;GAIN	1	1	MYC_known6_from_USF_3_from_USF_transfac_M00187	Positive
+A_direction_not_considered	BPB3_67_044	FOXE1_USF1|GAIN_USF2|GAIN	is-rSNP	USF1;USF2	GAIN;GAIN	3	3	USF	Positive
+A_direction_not_considered	BPB3_67_045	FZD1_Egr1|GAIN	BayesPI-BAR	EGR1	GAIN		51	NA	NA
+A_direction_not_considered	BPB3_67_045	FZD1_Egr1|GAIN	sTRAP	EGR1	GAIN	4	4	EGR1_known6_from_EGR1_3_from_Zif268_bulyk_nbt06-Zif268	Positive
+A_direction_not_considered	BPB3_67_045	FZD1_Egr1|GAIN	is-rSNP	EGR1	GAIN		51	NA	NA
+A_direction_not_considered	BPB3_67_046	GFI1B_Oct-1|LOSS	BayesPI-BAR	OCT-1	LOSS	3	3	POU5F1_known2_from_POU5F1_2_from_Oct-4-(POU5F1)_transfac_M01125	Negative
+A_direction_not_considered	BPB3_67_046	GFI1B_Oct-1|LOSS	sTRAP	OCT-1	LOSS	4	4	POU2F2_known1_from_POU2F1_1_from_Oct-1_transfac_M00135	Negative
+A_direction_not_considered	BPB3_67_046	GFI1B_Oct-1|LOSS	is-rSNP	OCT-1	LOSS	2	2	Oct-1	Negative
+A_direction_not_considered	BPB3_67_047	GFI1B_GATA-1|LOSS	BayesPI-BAR	GATA-1	LOSS	1	1	GATA_known11_from_GATA_2_from_GATA_transfac_M00789	Negative
+A_direction_not_considered	BPB3_67_047	GFI1B_GATA-1|LOSS	sTRAP	GATA-1	LOSS	1	1	GATA_known14_from_GATA_3_from_Tal1::Gata1_jaspar_MA0140	Negative
+A_direction_not_considered	BPB3_67_047	GFI1B_GATA-1|LOSS	is-rSNP	GATA-1	LOSS	2	2	GATA-X	Negative
+A_direction_not_considered	BPB3_67_048	GSTM1_AP-2-alpha|LOSS	BayesPI-BAR	AP-2-ALPHA	LOSS	7	7	TFAP2_known4_from_TFAP2_2_from_AP-2_transfac_M00800	Positive
+A_direction_not_considered	BPB3_67_048	GSTM1_AP-2-alpha|LOSS	sTRAP	AP-2-ALPHA	LOSS	46	46	KLF12_1_from_AP-2rep_transfac_M00468	Positive
+A_direction_not_considered	BPB3_67_048	GSTM1_AP-2-alpha|LOSS	is-rSNP	AP-2-ALPHA	LOSS		51	NA	NA
+A_direction_not_considered	BPB3_67_049	HBG2_GATA-1|LOSS	BayesPI-BAR	GATA-1	LOSS	2	2	GATA_known3_from_GATA3_1_from_GATA-3_transfac_M00077	Negative
+A_direction_not_considered	BPB3_67_049	HBG2_GATA-1|LOSS	sTRAP	GATA-1	LOSS	1	1	GATA_known4_from_GATA1_2_from_GATA-1_transfac_M00126	Negative
+A_direction_not_considered	BPB3_67_049	HBG2_GATA-1|LOSS	is-rSNP	GATA-1	LOSS	1	1	GATA-1	Negative
+A_direction_not_considered	BPB3_67_050	IGF1_C/EBP-delta|LOSS	BayesPI-BAR	CEBP-DELTA	LOSS		51	NA	NA
+A_direction_not_considered	BPB3_67_050	IGF1_C/EBP-delta|LOSS	sTRAP	CEBP-DELTA	LOSS	6	6	CEBPB_known3_from_CEBP_1_from_CorEBP_transfac_M00159	Positive
+A_direction_not_considered	BPB3_67_050	IGF1_C/EBP-delta|LOSS	is-rSNP	CEBP-DELTA	LOSS	33	33	C/EBP	Positive
+A_direction_not_considered	BPB3_67_051	IL18_OCT-1|GAIN	BayesPI-BAR	OCT-1	GAIN	1	1	POU2F2_known9_from_POU2F1_8_from_Oct-1_transfac_M00248	Negative
+A_direction_not_considered	BPB3_67_051	IL18_OCT-1|GAIN	sTRAP	OCT-1	GAIN	1	1	POU2F2_known9_from_POU2F1_8_from_Oct-1_transfac_M00248	Negative
+A_direction_not_considered	BPB3_67_051	IL18_OCT-1|GAIN	is-rSNP	OCT-1	GAIN	1	1	Oct-1	Negative
+A_direction_not_considered	BPB3_67_052	IL4_Oct-1|LOSS	BayesPI-BAR	OCT-1	LOSS		51	NA	NA
+A_direction_not_considered	BPB3_67_052	IL4_Oct-1|LOSS	sTRAP	OCT-1	LOSS	30	30	POU2F2_known14_from_POU2F1_12_from_Pou2f1_bulyk_cell08-3081	Positive
+A_direction_not_considered	BPB3_67_052	IL4_Oct-1|LOSS	is-rSNP	OCT-1	LOSS		51	NA	NA
+A_direction_not_considered	BPB3_67_053	LEP_Sp1|GAIN	BayesPI-BAR	SP1	GAIN	24	24	SP1_known7_from_SP1_6_from_SP1_jaspar_MA0079	Positive
+A_direction_not_considered	BPB3_67_053	LEP_Sp1|GAIN	sTRAP	SP1	GAIN		51	NA	NA
+A_direction_not_considered	BPB3_67_053	LEP_Sp1|GAIN	is-rSNP	SP1	GAIN		51	NA	NA
+A_direction_not_considered	BPB3_67_054	MPZ_SOX10|LOSS	BayesPI-BAR	SOX10	LOSS	1	1	SOX10_2_from_SOX10_jaspar_MA0442	Negative
+A_direction_not_considered	BPB3_67_054	MPZ_SOX10|LOSS	sTRAP	SOX10	LOSS	9	9	SOX10_2_from_SOX10_jaspar_MA0442	Negative
+A_direction_not_considered	BPB3_67_054	MPZ_SOX10|LOSS	is-rSNP	SOX10	LOSS		51	NA	NA
+A_direction_not_considered	BPB3_67_055	MYC_TCF4|GAIN_beta-catenin|GAIN	BayesPI-BAR	TCF4	GAIN	16	16	TCF7L2_known1_from_TCF7L2_1_from_TCF-4_transfac_M00671	Positive
+A_direction_not_considered	BPB3_67_055	MYC_TCF4|GAIN_beta-catenin|GAIN	sTRAP	TCF4	GAIN		51	NA	NA
+A_direction_not_considered	BPB3_67_055	MYC_TCF4|GAIN_beta-catenin|GAIN	is-rSNP	TCF4	GAIN		51	NA	NA
+A_direction_not_considered	BPB3_67_056	PVT1_YY1|LOSS	BayesPI-BAR	YY1	LOSS	2	2	YY1_known7_from_YY1_7_from_YY1_jolma_full_M33	Negative
+A_direction_not_considered	BPB3_67_056	PVT1_YY1|LOSS	sTRAP	YY1	LOSS		51	NA	NA
+A_direction_not_considered	BPB3_67_056	PVT1_YY1|LOSS	is-rSNP	YY1	LOSS	33	33	YY1	Positive
+A_direction_not_considered	BPB3_67_057	SIRT1_p53|LOSS	BayesPI-BAR	P53	LOSS		51	NA	NA
+A_direction_not_considered	BPB3_67_057	SIRT1_p53|LOSS	sTRAP	P53	LOSS		51	NA	NA
+A_direction_not_considered	BPB3_67_057	SIRT1_p53|LOSS	is-rSNP	P53	LOSS		51	NA	NA
+A_direction_not_considered	BPB3_67_058	SLC47A1_Sp1|LOSS	BayesPI-BAR	SP1	LOSS	1	1	SP1_known6_from_SP1_5_from_Sp1_transfac_M00933	Negative
+A_direction_not_considered	BPB3_67_058	SLC47A1_Sp1|LOSS	sTRAP	SP1	LOSS	4	4	SP1_known1_from_SP1_1_from_Sp1_transfac_M00008	Negative
+A_direction_not_considered	BPB3_67_058	SLC47A1_Sp1|LOSS	is-rSNP	SP1	LOSS	1	1	SP1	Negative
+A_direction_not_considered	BPB3_67_059	SLC7A1_Sp1|LOSS	BayesPI-BAR	SP1	LOSS	1	1	SP1_known7_from_SP1_6_from_SP1_jaspar_MA0079	Negative
+A_direction_not_considered	BPB3_67_059	SLC7A1_Sp1|LOSS	sTRAP	SP1	LOSS	2	2	SP1_known7_from_SP1_6_from_SP1_jaspar_MA0079	Negative
+A_direction_not_considered	BPB3_67_059	SLC7A1_Sp1|LOSS	is-rSNP	SP1	LOSS	2	2	Sp1	Negative
+A_direction_not_considered	BPB3_67_060	SORT1_C/EBP|GAIN	BayesPI-BAR	CEBP	GAIN	1	1	CEBPB_known2_from_CEBPB_2_from_CorEBPbeta_transfac_M00117	Positive
+A_direction_not_considered	BPB3_67_060	SORT1_C/EBP|GAIN	sTRAP	CEBP	GAIN	1	1	CEBPB_known7_from_CEBP_5_from_CorEBP_transfac_M00912	Positive
+A_direction_not_considered	BPB3_67_060	SORT1_C/EBP|GAIN	is-rSNP	CEBP	GAIN	1	1	C/EBPbeta	Positive
+A_direction_not_considered	BPB3_67_061	TMPRSS2_AR|LOSS	BayesPI-BAR	AR	LOSS	1	1	NR3C1_known15_from_AR_7_from_AR_jolma_DBD_M655	Negative
+A_direction_not_considered	BPB3_67_061	TMPRSS2_AR|LOSS	sTRAP	AR	LOSS	1	1	NR3C1_known15_from_AR_7_from_AR_jolma_DBD_M655	Negative
+A_direction_not_considered	BPB3_67_061	TMPRSS2_AR|LOSS	is-rSNP	AR	LOSS	1	1	AR	Negative
+A_direction_not_considered	BPB3_67_062	UGT1A7_TBP|LOSS	BayesPI-BAR	TBP	LOSS		51	NA	NA
+A_direction_not_considered	BPB3_67_062	UGT1A7_TBP|LOSS	sTRAP	TBP	LOSS		51	NA	NA
+A_direction_not_considered	BPB3_67_062	UGT1A7_TBP|LOSS	is-rSNP	TBP	LOSS		51	NA	NA
+A_direction_not_considered	BPB3_67_063	UGT2B17_FOXA1|GAIN	BayesPI-BAR	FOXA1	GAIN	3	3	FOXA_known7_from_FOXA2_3_from_Foxa2_bulyk_sc09-primary	Positive
+A_direction_not_considered	BPB3_67_063	UGT2B17_FOXA1|GAIN	sTRAP	FOXA1	GAIN	5	5	FOXA_known7_from_FOXA2_3_from_Foxa2_bulyk_sc09-primary	Positive
+A_direction_not_considered	BPB3_67_063	UGT2B17_FOXA1|GAIN	is-rSNP	FOXA1	GAIN	9	9	Foxa2_1	Positive
+A_direction_not_considered	BPB3_67_064	TERT_ETS|GAIN_1	BayesPI-BAR	ETS	GAIN	1	1	ETS_known8_from_ETS1_3_from_ETS1_jaspar_MA0098	Positive
+A_direction_not_considered	BPB3_67_064	TERT_ETS|GAIN_1	sTRAP	ETS	GAIN	3	3	ETS_known9_from_GABPA_1_from_GABPA_jaspar_MA0062	Positive
+A_direction_not_considered	BPB3_67_064	TERT_ETS|GAIN_1	is-rSNP	ETS	GAIN	11	11	ETS	Positive
+A_direction_not_considered	BPB3_67_065	TERT_ETS|GAIN_2	BayesPI-BAR	ETS	GAIN		51	NA	NA
+A_direction_not_considered	BPB3_67_065	TERT_ETS|GAIN_2	sTRAP	ETS	GAIN	47	47	ETS_known2_from_ELK1_2_from_Elk-1_transfac_M00025	Positive
+A_direction_not_considered	BPB3_67_065	TERT_ETS|GAIN_2	is-rSNP	ETS	GAIN	12	12	c-Ets-1	Positive
+A_direction_not_considered	BPB3_67_066	TERT_ETS|GAIN_3	BayesPI-BAR	ETS	GAIN	1	1	ETS_known8_from_ETS1_3_from_ETS1_jaspar_MA0098	Positive
+A_direction_not_considered	BPB3_67_066	TERT_ETS|GAIN_3	sTRAP	ETS	GAIN	3	3	ETS_known7_from_ELK1_3_from_ELK1_jaspar_MA0028	Positive
+A_direction_not_considered	BPB3_67_066	TERT_ETS|GAIN_3	is-rSNP	ETS	GAIN	6	6	c-Ets-1	Positive
+A_direction_not_considered	BPB3_67_067	TERT_ETS|GAIN_4	BayesPI-BAR	ETS	GAIN		51	NA	NA
+A_direction_not_considered	BPB3_67_067	TERT_ETS|GAIN_4	sTRAP	ETS	GAIN		51	NA	NA
+A_direction_not_considered	BPB3_67_067	TERT_ETS|GAIN_4	is-rSNP	ETS	GAIN		51	NA	NA
+B_considering_direction	BPB3_67_001	AGTRL1_SP1|GAIN	BayesPI-BAR	SP1	GAIN	2	2	SP1_known6_from_SP1_5_from_Sp1_transfac_M00933	Positive
+B_considering_direction	BPB3_67_001	AGTRL1_SP1|GAIN	sTRAP	SP1	GAIN	13	13	SP1_known9_from_SP3_2_from_SP3_jolma_DBD_M30	Positive
+B_considering_direction	BPB3_67_001	AGTRL1_SP1|GAIN	is-rSNP	SP1	GAIN	2	2	Sp1	Positive
+B_considering_direction	BPB3_67_002	ITGA2_SP1|LOSS	BayesPI-BAR	SP1	LOSS	2	2	SP1_known1_from_SP1_1_from_Sp1_transfac_M00008	Negative
+B_considering_direction	BPB3_67_002	ITGA2_SP1|LOSS	sTRAP	SP1	LOSS	11	11	SP1_known1_from_SP1_1_from_Sp1_transfac_M00008	Negative
+B_considering_direction	BPB3_67_002	ITGA2_SP1|LOSS	is-rSNP	SP1	LOSS	1	1	SP1	Negative
+B_considering_direction	BPB3_67_003	NFKBIL1_USF1|LOSS	BayesPI-BAR	USF1	LOSS	11	11	MYC_known7_from_USF_4_from_USF_transfac_M00217	Negative
+B_considering_direction	BPB3_67_003	NFKBIL1_USF1|LOSS	sTRAP	USF1	LOSS	12	12	MYC_known7_from_USF_4_from_USF_transfac_M00217	Negative
+B_considering_direction	BPB3_67_003	NFKBIL1_USF1|LOSS	is-rSNP	USF1	LOSS	42	42	USF	Negative
+B_considering_direction	BPB3_67_004	IRF2_IRF1|LOSS	BayesPI-BAR	IRF1	LOSS	4	4	IRF_known9_from_IRF1_3_from_IRF1_jaspar_MA0050	Negative
+B_considering_direction	BPB3_67_004	IRF2_IRF1|LOSS	sTRAP	IRF1	LOSS	9	9	IRF_known9_from_IRF1_3_from_IRF1_jaspar_MA0050	Negative
+B_considering_direction	BPB3_67_004	IRF2_IRF1|LOSS	is-rSNP	IRF1	LOSS	3	3	IRF-1	Negative
+B_considering_direction	BPB3_67_005	AFP_HNF-1_1|GAIN	BayesPI-BAR	HNF-1	GAIN	1	1	HNF1B_4_from_HNF1B_jolma_full_M519	Positive
+B_considering_direction	BPB3_67_005	AFP_HNF-1_1|GAIN	sTRAP	HNF-1	GAIN	1	1	HNF1A_1_from_HNF1A_jaspar_MA0046	Positive
+B_considering_direction	BPB3_67_005	AFP_HNF-1_1|GAIN	is-rSNP	HNF-1	GAIN	1	1	HNF1	Positive
+B_considering_direction	BPB3_67_006	AFP_HNF-1_2|GAIN	BayesPI-BAR	HNF-1	GAIN	1	1	HNF1B_3_from_HNF1B_jolma_full_M518	Positive
+B_considering_direction	BPB3_67_006	AFP_HNF-1_2|GAIN	sTRAP	HNF-1	GAIN	1	1	HNF1_3_from_HNF1_transfac_M00790	Positive
+B_considering_direction	BPB3_67_006	AFP_HNF-1_2|GAIN	is-rSNP	HNF-1	GAIN	1	1	HNF1	Positive
+B_considering_direction	BPB3_67_008	ALOX15_SPI1|GAIN	BayesPI-BAR	SPI1	GAIN	11	11	SPI1_known2_from_SPI1_2_from_SPI1_jaspar_MA0080	Positive
+B_considering_direction	BPB3_67_008	ALOX15_SPI1|GAIN	sTRAP	SPI1	GAIN	8	8	SPI1_known3_from_SPI1_3_from_Sfpi1_bulyk_sc09-primary	Positive
+B_considering_direction	BPB3_67_008	ALOX15_SPI1|GAIN	is-rSNP	SPI1	GAIN		51	NA	NA
+B_considering_direction	BPB3_67_010	SFTPB_SP-1|GAIN	BayesPI-BAR	SP-1	GAIN		51	NA	NA
+B_considering_direction	BPB3_67_010	SFTPB_SP-1|GAIN	sTRAP	SP-1	GAIN		51	NA	NA
+B_considering_direction	BPB3_67_010	SFTPB_SP-1|GAIN	is-rSNP	SP-1	GAIN		51	NA	NA
+B_considering_direction	BPB3_67_011	PTGS2_c-MYB|GAIN	BayesPI-BAR	C-MYB	GAIN		51	NA	NA
+B_considering_direction	BPB3_67_011	PTGS2_c-MYB|GAIN	sTRAP	C-MYB	GAIN		51	NA	NA
+B_considering_direction	BPB3_67_011	PTGS2_c-MYB|GAIN	is-rSNP	C-MYB	GAIN	43	43	c-Myb	Positive
+B_considering_direction	BPB3_67_012	LIPC_USF|LOSS	BayesPI-BAR	USF	LOSS	1	1	MYC_known7_from_USF_4_from_USF_transfac_M00217	Negative
+B_considering_direction	BPB3_67_012	LIPC_USF|LOSS	sTRAP	USF	LOSS	2	2	MYC_known6_from_USF_3_from_USF_transfac_M00187	Negative
+B_considering_direction	BPB3_67_012	LIPC_USF|LOSS	is-rSNP	USF	LOSS	1	1	USF	Negative
+B_considering_direction	BPB3_67_015	FLT1_P53|GAIN	BayesPI-BAR	P53	GAIN	1	1	TP53_2_from_p53_transfac_M00272	Positive
+B_considering_direction	BPB3_67_015	FLT1_P53|GAIN	sTRAP	P53	GAIN	1	1	TP53_3_from_p53-decamer_transfac_M00761	Positive
+B_considering_direction	BPB3_67_015	FLT1_P53|GAIN	is-rSNP	P53	GAIN	1	1	p53	Positive
+B_considering_direction	BPB3_67_019	FECH_SP1|LOSS	BayesPI-BAR	SP1	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_019	FECH_SP1|LOSS	sTRAP	SP1	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_019	FECH_SP1|LOSS	is-rSNP	SP1	LOSS	13	13	Sp1	Negative
+B_considering_direction	BPB3_67_020	TCOf1_YY1|LOSS	BayesPI-BAR	YY1	LOSS	12	12	YY1_known6_from_YY1_6_from_YY1_jaspar_MA0095	Negative
+B_considering_direction	BPB3_67_020	TCOf1_YY1|LOSS	sTRAP	YY1	LOSS	12	12	YY1_known3_from_YY1_3_from_NF-muE1_transfac_M00651	Negative
+B_considering_direction	BPB3_67_020	TCOf1_YY1|LOSS	is-rSNP	YY1	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_021	IRF6_AP-2alpha|LOSS	BayesPI-BAR	AP-2ALPHA	LOSS	4	4	TFAP2_known2_from_TFAP2A_1_from_AP-2alpha_transfac_M00469	Negative
+B_considering_direction	BPB3_67_021	IRF6_AP-2alpha|LOSS	sTRAP	AP-2ALPHA	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_021	IRF6_AP-2alpha|LOSS	is-rSNP	AP-2ALPHA	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_026	GP1BB_GATA-1|LOSS	BayesPI-BAR	GATA-1	LOSS	1	1	GATA_known12_from_GATA2_2_from_GATA2_jaspar_MA0036	Negative
+B_considering_direction	BPB3_67_026	GP1BB_GATA-1|LOSS	sTRAP	GATA-1	LOSS	1	1	GATA_known6_from_GATA1_4_from_GATA-1_transfac_M00128	Negative
+B_considering_direction	BPB3_67_026	GP1BB_GATA-1|LOSS	is-rSNP	GATA-1	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_027	PKLR_GATA-A|LOSS	BayesPI-BAR	GATA-A	LOSS	1	1	GATA_known22_from_GATA5_2_from_GATA5_jolma_DBD_M130	Negative
+B_considering_direction	BPB3_67_027	PKLR_GATA-A|LOSS	sTRAP	GATA-A	LOSS	1	1	GATA_known7_from_GATA_1_from_GATA-X_transfac_M00203	Negative
+B_considering_direction	BPB3_67_027	PKLR_GATA-A|LOSS	is-rSNP	GATA-A	LOSS	7	7	GATA-4	Negative
+B_considering_direction	BPB3_67_029	F9_C/EBP|LOSS	BayesPI-BAR	CEBP	LOSS	1	1	CEBPA_2_from_CEBPA_jaspar_MA0102	Negative
+B_considering_direction	BPB3_67_029	F9_C/EBP|LOSS	sTRAP	CEBP	LOSS	1	1	CEBPB_known1_from_CEBPB_1_from_CorEBPbeta_transfac_M00109	Negative
+B_considering_direction	BPB3_67_029	F9_C/EBP|LOSS	is-rSNP	CEBP	LOSS	1	1	C/EBP	Negative
+B_considering_direction	BPB3_67_030	HBM_GATA-1|GAIN	BayesPI-BAR	GATA-1	GAIN	1	1	GATA_known14_from_GATA_3_from_Tal1::Gata1_jaspar_MA0140	Positive
+B_considering_direction	BPB3_67_030	HBM_GATA-1|GAIN	sTRAP	GATA-1	GAIN	1	1	GATA_known14_from_GATA_3_from_Tal1::Gata1_jaspar_MA0140	Positive
+B_considering_direction	BPB3_67_030	HBM_GATA-1|GAIN	is-rSNP	GATA-1	GAIN		51	NA	NA
+B_considering_direction	BPB3_67_035	ADAMTS18_TEL2|GAIN	BayesPI-BAR	TEL2	GAIN		51	NA	NA
+B_considering_direction	BPB3_67_035	ADAMTS18_TEL2|GAIN	sTRAP	TEL2	GAIN		51	NA	NA
+B_considering_direction	BPB3_67_035	ADAMTS18_TEL2|GAIN	is-rSNP	TEL2	GAIN		51	NA	NA
+B_considering_direction	BPB3_67_036	CDKN2B-AS1_STAT1|LOSS	BayesPI-BAR	STAT1	LOSS	2	2	STAT_known1_from_STAT_1_from_STATx_transfac_M00223	Negative
+B_considering_direction	BPB3_67_036	CDKN2B-AS1_STAT1|LOSS	sTRAP	STAT1	LOSS	5	5	STAT_known2_from_STAT1_1_from_STAT1_transfac_M00224	Negative
+B_considering_direction	BPB3_67_036	CDKN2B-AS1_STAT1|LOSS	is-rSNP	STAT1	LOSS	1	1	STAT1	Negative
+B_considering_direction	BPB3_67_037	CHGB_SRY|LOSS_YY1|LOSS	BayesPI-BAR	SRY;YY1	LOSS;LOSS	2	2	YY1_known1_from_YY1_1_from_YY1_transfac_M00059	Negative
+B_considering_direction	BPB3_67_037	CHGB_SRY|LOSS_YY1|LOSS	sTRAP	SRY;YY1	LOSS;LOSS	1	1	YY1_known6_from_YY1_6_from_YY1_jaspar_MA0095	Negative
+B_considering_direction	BPB3_67_037	CHGB_SRY|LOSS_YY1|LOSS	is-rSNP	SRY;YY1	LOSS;LOSS	1	1	YY1	Negative
+B_considering_direction	BPB3_67_038	CHGB_c-FOS|LOSS	BayesPI-BAR	C-FOS	LOSS	3	3	AP1_known6_from_AP1_7_from_AP-1_transfac_M00517	Negative
+B_considering_direction	BPB3_67_038	CHGB_c-FOS|LOSS	sTRAP	C-FOS	LOSS	1	1	AP1_known6_from_AP1_7_from_AP-1_transfac_M00517	Negative
+B_considering_direction	BPB3_67_038	CHGB_c-FOS|LOSS	is-rSNP	C-FOS	LOSS	14	14	AP-1	Negative
+B_considering_direction	BPB3_67_039	CHRNA3_Oct-1|LOSS	BayesPI-BAR	OCT-1	LOSS	1	1	POU2F2_known10_from_POU2F1_9_from_Oct-1_transfac_M00342	Negative
+B_considering_direction	BPB3_67_039	CHRNA3_Oct-1|LOSS	sTRAP	OCT-1	LOSS	1	1	POU2F2_known12_from_POU2F1_10_from_Oct-1_transfac_M00930	Negative
+B_considering_direction	BPB3_67_039	CHRNA3_Oct-1|LOSS	is-rSNP	OCT-1	LOSS	1	1	Octamer	Negative
+B_considering_direction	BPB3_67_040	FABP4_C/EBP|LOSS	BayesPI-BAR	CEBP	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_040	FABP4_C/EBP|LOSS	sTRAP	CEBP	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_040	FABP4_C/EBP|LOSS	is-rSNP	CEBP	LOSS	16	16	C/EBPalpha	Negative
+B_considering_direction	BPB3_67_041	FAS_c-Rel|GAIN	BayesPI-BAR	C-REL	GAIN	11	11	REL_1_from_c-Rel_transfac_M00053	Positive
+B_considering_direction	BPB3_67_041	FAS_c-Rel|GAIN	sTRAP	C-REL	GAIN	50	50	REL_1_from_c-Rel_transfac_M00053	Positive
+B_considering_direction	BPB3_67_041	FAS_c-Rel|GAIN	is-rSNP	C-REL	GAIN		51	NA	NA
+B_considering_direction	BPB3_67_042	FMO1_YY1|LOSS	BayesPI-BAR	YY1	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_042	FMO1_YY1|LOSS	sTRAP	YY1	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_042	FMO1_YY1|LOSS	is-rSNP	YY1	LOSS	16	16	YY1	Negative
+B_considering_direction	BPB3_67_043	FOXE1_MYF-5|LOSS	BayesPI-BAR	MYF-5	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_043	FOXE1_MYF-5|LOSS	sTRAP	MYF-5	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_043	FOXE1_MYF-5|LOSS	is-rSNP	MYF-5	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_044	FOXE1_USF1|GAIN_USF2|GAIN	BayesPI-BAR	USF1;USF2	GAIN;GAIN	2	2	MYC_known6_from_USF_3_from_USF_transfac_M00187	Positive
+B_considering_direction	BPB3_67_044	FOXE1_USF1|GAIN_USF2|GAIN	sTRAP	USF1;USF2	GAIN;GAIN	1	1	MYC_known6_from_USF_3_from_USF_transfac_M00187	Positive
+B_considering_direction	BPB3_67_044	FOXE1_USF1|GAIN_USF2|GAIN	is-rSNP	USF1;USF2	GAIN;GAIN	3	3	USF	Positive
+B_considering_direction	BPB3_67_045	FZD1_Egr1|GAIN	BayesPI-BAR	EGR1	GAIN		51	NA	NA
+B_considering_direction	BPB3_67_045	FZD1_Egr1|GAIN	sTRAP	EGR1	GAIN	4	4	EGR1_known6_from_EGR1_3_from_Zif268_bulyk_nbt06-Zif268	Positive
+B_considering_direction	BPB3_67_045	FZD1_Egr1|GAIN	is-rSNP	EGR1	GAIN		51	NA	NA
+B_considering_direction	BPB3_67_046	GFI1B_Oct-1|LOSS	BayesPI-BAR	OCT-1	LOSS	3	3	POU5F1_known2_from_POU5F1_2_from_Oct-4-(POU5F1)_transfac_M01125	Negative
+B_considering_direction	BPB3_67_046	GFI1B_Oct-1|LOSS	sTRAP	OCT-1	LOSS	4	4	POU2F2_known1_from_POU2F1_1_from_Oct-1_transfac_M00135	Negative
+B_considering_direction	BPB3_67_046	GFI1B_Oct-1|LOSS	is-rSNP	OCT-1	LOSS	2	2	Oct-1	Negative
+B_considering_direction	BPB3_67_047	GFI1B_GATA-1|LOSS	BayesPI-BAR	GATA-1	LOSS	1	1	GATA_known11_from_GATA_2_from_GATA_transfac_M00789	Negative
+B_considering_direction	BPB3_67_047	GFI1B_GATA-1|LOSS	sTRAP	GATA-1	LOSS	1	1	GATA_known14_from_GATA_3_from_Tal1::Gata1_jaspar_MA0140	Negative
+B_considering_direction	BPB3_67_047	GFI1B_GATA-1|LOSS	is-rSNP	GATA-1	LOSS	2	2	GATA-X	Negative
+B_considering_direction	BPB3_67_048	GSTM1_AP-2-alpha|LOSS	BayesPI-BAR	AP-2-ALPHA	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_048	GSTM1_AP-2-alpha|LOSS	sTRAP	AP-2-ALPHA	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_048	GSTM1_AP-2-alpha|LOSS	is-rSNP	AP-2-ALPHA	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_049	HBG2_GATA-1|LOSS	BayesPI-BAR	GATA-1	LOSS	2	2	GATA_known3_from_GATA3_1_from_GATA-3_transfac_M00077	Negative
+B_considering_direction	BPB3_67_049	HBG2_GATA-1|LOSS	sTRAP	GATA-1	LOSS	1	1	GATA_known4_from_GATA1_2_from_GATA-1_transfac_M00126	Negative
+B_considering_direction	BPB3_67_049	HBG2_GATA-1|LOSS	is-rSNP	GATA-1	LOSS	1	1	GATA-1	Negative
+B_considering_direction	BPB3_67_050	IGF1_C/EBP-delta|LOSS	BayesPI-BAR	CEBP-DELTA	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_050	IGF1_C/EBP-delta|LOSS	sTRAP	CEBP-DELTA	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_050	IGF1_C/EBP-delta|LOSS	is-rSNP	CEBP-DELTA	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_051	IL18_OCT-1|GAIN	BayesPI-BAR	OCT-1	GAIN		51	NA	NA
+B_considering_direction	BPB3_67_051	IL18_OCT-1|GAIN	sTRAP	OCT-1	GAIN		51	NA	NA
+B_considering_direction	BPB3_67_051	IL18_OCT-1|GAIN	is-rSNP	OCT-1	GAIN		51	NA	NA
+B_considering_direction	BPB3_67_052	IL4_Oct-1|LOSS	BayesPI-BAR	OCT-1	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_052	IL4_Oct-1|LOSS	sTRAP	OCT-1	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_052	IL4_Oct-1|LOSS	is-rSNP	OCT-1	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_053	LEP_Sp1|GAIN	BayesPI-BAR	SP1	GAIN	24	24	SP1_known7_from_SP1_6_from_SP1_jaspar_MA0079	Positive
+B_considering_direction	BPB3_67_053	LEP_Sp1|GAIN	sTRAP	SP1	GAIN		51	NA	NA
+B_considering_direction	BPB3_67_053	LEP_Sp1|GAIN	is-rSNP	SP1	GAIN		51	NA	NA
+B_considering_direction	BPB3_67_054	MPZ_SOX10|LOSS	BayesPI-BAR	SOX10	LOSS	1	1	SOX10_2_from_SOX10_jaspar_MA0442	Negative
+B_considering_direction	BPB3_67_054	MPZ_SOX10|LOSS	sTRAP	SOX10	LOSS	9	9	SOX10_2_from_SOX10_jaspar_MA0442	Negative
+B_considering_direction	BPB3_67_054	MPZ_SOX10|LOSS	is-rSNP	SOX10	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_055	MYC_TCF4|GAIN_beta-catenin|GAIN	BayesPI-BAR	TCF4	GAIN	16	16	TCF7L2_known1_from_TCF7L2_1_from_TCF-4_transfac_M00671	Positive
+B_considering_direction	BPB3_67_055	MYC_TCF4|GAIN_beta-catenin|GAIN	sTRAP	TCF4	GAIN		51	NA	NA
+B_considering_direction	BPB3_67_055	MYC_TCF4|GAIN_beta-catenin|GAIN	is-rSNP	TCF4	GAIN		51	NA	NA
+B_considering_direction	BPB3_67_056	PVT1_YY1|LOSS	BayesPI-BAR	YY1	LOSS	2	2	YY1_known7_from_YY1_7_from_YY1_jolma_full_M33	Negative
+B_considering_direction	BPB3_67_056	PVT1_YY1|LOSS	sTRAP	YY1	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_056	PVT1_YY1|LOSS	is-rSNP	YY1	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_057	SIRT1_p53|LOSS	BayesPI-BAR	P53	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_057	SIRT1_p53|LOSS	sTRAP	P53	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_057	SIRT1_p53|LOSS	is-rSNP	P53	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_058	SLC47A1_Sp1|LOSS	BayesPI-BAR	SP1	LOSS	1	1	SP1_known6_from_SP1_5_from_Sp1_transfac_M00933	Negative
+B_considering_direction	BPB3_67_058	SLC47A1_Sp1|LOSS	sTRAP	SP1	LOSS	4	4	SP1_known1_from_SP1_1_from_Sp1_transfac_M00008	Negative
+B_considering_direction	BPB3_67_058	SLC47A1_Sp1|LOSS	is-rSNP	SP1	LOSS	1	1	SP1	Negative
+B_considering_direction	BPB3_67_059	SLC7A1_Sp1|LOSS	BayesPI-BAR	SP1	LOSS	1	1	SP1_known7_from_SP1_6_from_SP1_jaspar_MA0079	Negative
+B_considering_direction	BPB3_67_059	SLC7A1_Sp1|LOSS	sTRAP	SP1	LOSS	2	2	SP1_known7_from_SP1_6_from_SP1_jaspar_MA0079	Negative
+B_considering_direction	BPB3_67_059	SLC7A1_Sp1|LOSS	is-rSNP	SP1	LOSS	2	2	Sp1	Negative
+B_considering_direction	BPB3_67_060	SORT1_C/EBP|GAIN	BayesPI-BAR	CEBP	GAIN	1	1	CEBPB_known2_from_CEBPB_2_from_CorEBPbeta_transfac_M00117	Positive
+B_considering_direction	BPB3_67_060	SORT1_C/EBP|GAIN	sTRAP	CEBP	GAIN	1	1	CEBPB_known7_from_CEBP_5_from_CorEBP_transfac_M00912	Positive
+B_considering_direction	BPB3_67_060	SORT1_C/EBP|GAIN	is-rSNP	CEBP	GAIN	1	1	C/EBPbeta	Positive
+B_considering_direction	BPB3_67_061	TMPRSS2_AR|LOSS	BayesPI-BAR	AR	LOSS	1	1	NR3C1_known15_from_AR_7_from_AR_jolma_DBD_M655	Negative
+B_considering_direction	BPB3_67_061	TMPRSS2_AR|LOSS	sTRAP	AR	LOSS	1	1	NR3C1_known15_from_AR_7_from_AR_jolma_DBD_M655	Negative
+B_considering_direction	BPB3_67_061	TMPRSS2_AR|LOSS	is-rSNP	AR	LOSS	1	1	AR	Negative
+B_considering_direction	BPB3_67_062	UGT1A7_TBP|LOSS	BayesPI-BAR	TBP	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_062	UGT1A7_TBP|LOSS	sTRAP	TBP	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_062	UGT1A7_TBP|LOSS	is-rSNP	TBP	LOSS		51	NA	NA
+B_considering_direction	BPB3_67_063	UGT2B17_FOXA1|GAIN	BayesPI-BAR	FOXA1	GAIN	3	3	FOXA_known7_from_FOXA2_3_from_Foxa2_bulyk_sc09-primary	Positive
+B_considering_direction	BPB3_67_063	UGT2B17_FOXA1|GAIN	sTRAP	FOXA1	GAIN	5	5	FOXA_known7_from_FOXA2_3_from_Foxa2_bulyk_sc09-primary	Positive
+B_considering_direction	BPB3_67_063	UGT2B17_FOXA1|GAIN	is-rSNP	FOXA1	GAIN	9	9	Foxa2_1	Positive
+B_considering_direction	BPB3_67_064	TERT_ETS|GAIN_1	BayesPI-BAR	ETS	GAIN	1	1	ETS_known8_from_ETS1_3_from_ETS1_jaspar_MA0098	Positive
+B_considering_direction	BPB3_67_064	TERT_ETS|GAIN_1	sTRAP	ETS	GAIN	3	3	ETS_known9_from_GABPA_1_from_GABPA_jaspar_MA0062	Positive
+B_considering_direction	BPB3_67_064	TERT_ETS|GAIN_1	is-rSNP	ETS	GAIN	11	11	ETS	Positive
+B_considering_direction	BPB3_67_065	TERT_ETS|GAIN_2	BayesPI-BAR	ETS	GAIN		51	NA	NA
+B_considering_direction	BPB3_67_065	TERT_ETS|GAIN_2	sTRAP	ETS	GAIN	47	47	ETS_known2_from_ELK1_2_from_Elk-1_transfac_M00025	Positive
+B_considering_direction	BPB3_67_065	TERT_ETS|GAIN_2	is-rSNP	ETS	GAIN	12	12	c-Ets-1	Positive
+B_considering_direction	BPB3_67_066	TERT_ETS|GAIN_3	BayesPI-BAR	ETS	GAIN	1	1	ETS_known8_from_ETS1_3_from_ETS1_jaspar_MA0098	Positive
+B_considering_direction	BPB3_67_066	TERT_ETS|GAIN_3	sTRAP	ETS	GAIN	3	3	ETS_known7_from_ELK1_3_from_ELK1_jaspar_MA0028	Positive
+B_considering_direction	BPB3_67_066	TERT_ETS|GAIN_3	is-rSNP	ETS	GAIN	6	6	c-Ets-1	Positive
+B_considering_direction	BPB3_67_067	TERT_ETS|GAIN_4	BayesPI-BAR	ETS	GAIN		51	NA	NA
+B_considering_direction	BPB3_67_067	TERT_ETS|GAIN_4	sTRAP	ETS	GAIN		51	NA	NA
+B_considering_direction	BPB3_67_067	TERT_ETS|GAIN_4	is-rSNP	ETS	GAIN		51	NA	NA
